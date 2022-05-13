@@ -27,6 +27,19 @@ print('Pietro')
 print('Pietro')
 print('Pietro')
 
+# Preprocess data_2
+print('Jaime')
+print('Jaime')
+print('Jaime')
+print('Jaime')
+print('Jaime')
+print('Jaime')
+print('Jaime')
+print('Jaime')
+print('Jaime')
+print('Jaime')
+
+
 # Create barplot_2
 print('Catarina')
 print('Pietro')
