@@ -26,3 +26,10 @@ print('Pietro')
 print('Pietro')
 print('Pietro')
 print('Pietro')
+
+# Create barplot_2
+print('Catarina')
+print('Pietro')
+print('Pietro')
+print('Pietro')
+print('Pietro')
