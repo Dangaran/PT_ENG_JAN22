@@ -38,3 +38,11 @@ print('Jaime')
 print('Jaime')
 print('Jaime')
 print('Jaime')
+
+
+# Create barplot_2
+print('Catarina')
+print('Pietro')
+print('Pietro')
+print('Pietro')
+print('Pietro')
